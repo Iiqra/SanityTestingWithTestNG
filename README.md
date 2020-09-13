@@ -1,4 +1,4 @@
-# SanityTestingWithTestNG
+# SanityTestingWithTestNG [![CircleCI](https://circleci.com/gh/Iiqra/SanityTestingWithTestNG.svg?style=shield)](https://circleci.com/gh/circleci/circleci-docs)
 This is the a sample Java 'Getting Started' project to understand Sanity Testing using TestNG. 
 
 # About the Demo
